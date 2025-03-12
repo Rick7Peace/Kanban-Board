@@ -34,7 +34,10 @@ The application is deployed at:
 Kanban Board Live Site - https://kanban-board-liku.onrender.com
 
 # Screenshots 
-
+<img width="1512" alt="Image" src="https://github.com/user-attachments/assets/6bf9673a-a2aa-4d7a-898d-521510f2a547" />
+<img width="1512" alt="Image" src="https://github.com/user-attachments/assets/618f7706-21d2-4429-af94-1f4bfbbfba0a" />
+<img width="1512" alt="Image" src="https://github.com/user-attachments/assets/63ce4cf6-7571-423c-8ffe-1abcacd05e3b" />
+<img width="1512" alt="Image" src="https://github.com/user-attachments/assets/0963ecc3-5c41-4592-8b3a-50adbd683951" />
 
 
 
